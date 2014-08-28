@@ -5,7 +5,7 @@
 
 <title>Nepal Television</title>
 	<link rel="stylesheet" type="text/css" href="css/main2.css"/>
-    <link rel="stylesheet" type="text/css" href="test/css/menu.css"/>
+    <link rel="stylesheet" type="text/css" href="css/menu.css"/>
     <link rel="stylesheet" type="text/css" href="css/font.css"/>
     
     
