@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+#menu{
+	width:730px;
+	height:50px;
+	margin:0; 
+	display:block; 
+	backface-visibility:visible; 
+	/*box-shadow:2px 2px 15px #cccccc;*/
+	font:Arial;
+}
+#menu ul{
+	list-style-type:none; 
+	margin:0; 
+	padding:0; 
+	display:inline-block
+}
+#menu ul li{
+	float:left; 
+	width:auto;
+	text-align:center;
+}
+
+#menu ul li a{
+	display:block; 
+	text-decoration:none; 
+	color:#ffffff; 
+	font-weight:bold; 
+	font-size:14.16px;
+	padding:15px 10px 15px 10px; 
+	margin:0;
+}
+#menu ul li a:hover{
+	display:block; 
+	color:#ffffff; 
+	background:#853f0b;
+	font-size:14.16px;
+}
+
+.current{
+	display:block; 
+	color:#FFFFFF; 
+	background:#853f0b;
+}
+
